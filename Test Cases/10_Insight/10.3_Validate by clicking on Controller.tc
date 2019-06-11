@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Should display Cntroller level insights:Availability,Utilization,Reliability,Robot list</description>
+   <name>10.3_Validate by clicking on Controller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2799392d-0629-4bbc-8c46-3edc8f767855</testCaseGuid>
+</TestCaseEntity>

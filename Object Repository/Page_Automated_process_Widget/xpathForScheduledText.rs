@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>xpathForScheduledText</name>
+   <tag></tag>
+   <elementGuidId>e63b14d2-7cb7-4be3-abf9-d639be539e21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-home-component/perfect-scrollbar/div/div[1]/app-operational/app-dashboard-area/app-operationalview/mat-card[2]/app-summary/div/div[3]/app-processsnapshottab/a/app-column-chart-snapshot/div/div/svg/g[6]/text[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1558521161161</value>
+   </webElementProperties>
+</WebElementEntity>

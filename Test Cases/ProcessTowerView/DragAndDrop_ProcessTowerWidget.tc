@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DragAndDrop_ProcessTowerWidget</name>
+   <tag></tag>
+   <comment>ProcessTowerView displayed</comment>
+   <testCaseGuid>24d536f2-1629-41f6-8914-c1891f09af6d</testCaseGuid>
+</TestCaseEntity>

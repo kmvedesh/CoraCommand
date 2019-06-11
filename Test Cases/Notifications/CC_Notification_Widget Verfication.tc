@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CC_Notification_Widget Verfication</name>
+   <tag></tag>
+   <comment>Text:&quot; + IsnotificationPresent
+Text:&quot; + ErrorsPresent
+Text:&quot; + InfoPresent
+Text:&quot; + WarningsPresent</comment>
+   <testCaseGuid>0f0d71ee-0f05-4efa-a989-cda83515766a</testCaseGuid>
+</TestCaseEntity>

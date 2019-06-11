@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_LicenseInventory_DetailView</name>
+   <tag></tag>
+   <comment>Total license count is :&quot; + TotalLicenseCount
+Total license cost is :&quot; + TotalLicenseCost
+Total license cost is :&quot; + TotalInstalledLicenseCount
+Total license cost is :&quot; + TotalUnusedLicenseCount</comment>
+   <testCaseGuid>b683f3f6-349a-46d3-9523-0097f9841971</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Should display process metrics level  insights:Overall executed hours,Overall executed cases,Total automated process,Exceptions,Automated process list</description>
+   <name>10.4_ValidateByClickingOnProcessMetrics</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdda1362-5cdd-4e44-804a-f52ad4e7ab0b</testCaseGuid>
+</TestCaseEntity>

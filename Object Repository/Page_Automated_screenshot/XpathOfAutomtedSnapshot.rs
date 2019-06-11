@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>XpathOfAutomtedSnapshot</name>
+   <tag></tag>
+   <elementGuidId>be05b582-39e8-42c4-b6b0-ae01a34bb63c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root/app-home-component[contains(@class,'ng-star-inserted')]/perfect-scrollbar[contains(@class,'perfect-scrollbar')]/div[contains(@class,'ps ps--active-y')]/div[contains(@class,'ps-content')]/app-operational[contains(@class,'ng-star-inserted')]/app-dashboard-area[contains(@class,'ng-star-inserted')]/app-operationalview/mat-card[contains(@class,'mat-card summary-view')]/app-summary/div[contains(@class,'today-summary-container')]/div[contains(@class,'col-xs-12 padding-zero mar-top-10')]/app-processsnapshottab/a[contains(@class,'snapshot-summary ng-star-inserted')]/app-column-chart-snapshot[contains(@class,'cursor-pointer')]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1558438990799</value>
+   </webElementProperties>
+</WebElementEntity>

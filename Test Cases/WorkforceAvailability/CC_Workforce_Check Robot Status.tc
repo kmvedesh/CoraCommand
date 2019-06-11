@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to CC application by giving valid username and password and click on sign in button</description>
+   <name>CC_Workforce_Check Robot Status</name>
+   <tag></tag>
+   <comment>Status name :&quot; + Status1
+Status name :&quot; + Status2
+Status name :&quot; + Status3</comment>
+   <testCaseGuid>23cebdca-890e-4386-a59f-12c4f37c2d74</testCaseGuid>
+</TestCaseEntity>

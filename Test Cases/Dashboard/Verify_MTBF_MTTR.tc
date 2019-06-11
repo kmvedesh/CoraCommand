@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_MTBF_MTTR</name>
+   <tag></tag>
+   <comment>MTBF value is :&quot; + MTBF_Value
+MTTR value is :&quot; + MTTR_Value</comment>
+   <testCaseGuid>514a7a17-e770-44f3-945d-114098d1a5dc</testCaseGuid>
+</TestCaseEntity>

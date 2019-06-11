@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CC_Double click on Notification</name>
+   <tag></tag>
+   <comment>Text:&quot; + IsnotificationPresent
+Text:&quot; + IserrorPresent
+Text:&quot; + IsinfoPresent
+Text:&quot; + IswarningPresent</comment>
+   <testCaseGuid>5abc016c-b84b-46e4-b0c4-beae12208ff8</testCaseGuid>
+</TestCaseEntity>

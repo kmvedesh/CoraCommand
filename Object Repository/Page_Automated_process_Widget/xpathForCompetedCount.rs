@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>xpathForCompetedCount</name>
+   <tag></tag>
+   <elementGuidId>9f66d7e6-df99-4f89-b177-b5eec62b74e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-home-component/perfect-scrollbar/div/div[1]/app-operational/app-dashboard-area/app-operationalview/mat-card[2]/app-summary/div/div[3]/app-processsnapshottab/a/app-column-chart-snapshot/div/div/svg/g[5]/g[3]/text/tspan[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1558521028658</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DigitalWorkforce_Health</name>
+   <tag></tag>
+   <comment>Robot count is :&quot; + RobotCount
+Screen Label Name is : &quot; + ScreenLabel</comment>
+   <testCaseGuid>f908b128-3d48-4156-8e04-930fd172c5a4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eeddb0e7-9963-4949-916f-9c18835e7c79</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22e079cd-fc0f-4969-b02b-2db508fca13d</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

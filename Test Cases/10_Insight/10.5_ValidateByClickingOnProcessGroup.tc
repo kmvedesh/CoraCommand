@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Should display process Group level  insights:Overall executed hours,Overall executed cases,Total automated process,Exceptions,Automated process list</description>
+   <name>10.5_ValidateByClickingOnProcessGroup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ba8e3c4-df92-436e-ae04-7edc97623354</testCaseGuid>
+</TestCaseEntity>

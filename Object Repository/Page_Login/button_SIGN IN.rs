@@ -7,13 +7,13 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>id(&quot;login-form&quot;)/div[@class=&quot;form-group margin-top-6px&quot;]/button[@class=&quot;form-control login-btn inline-block pull-right&quot;]</value>
+         <value>id(&quot;login-form&quot;)/div[@class=&quot;form-group margin-top-6px&quot;]/button[@class=&quot;form-control login-btn inline-block pull-right&quot;][count(. | //button[(text() = 'SIGN IN' or . = 'SIGN IN')]) = count(//button[(text() = 'SIGN IN' or . = 'SIGN IN')])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -27,7 +27,7 @@
       <value>form-control login-btn inline-block pull-right</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>

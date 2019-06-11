@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To click on List View in workforce availability card</description>
+   <name>List View_Workforce Availability</name>
+   <tag></tag>
+   <comment>Current Page Url is : &quot; + ListViewPage_Url
+Column1 name is :&quot; + Column1
+Column2 name is :&quot; + Column2
+Column3 name is :&quot; + Column3
+Column4 name is :&quot; + Column4
+Column5 name is :&quot; + Column5
+Column6 name is :&quot; + Column6
+Column7 name is :&quot; + Column7
+Column8 name is :&quot; + Column8
+Column9 name is :&quot; + Column9</comment>
+   <testCaseGuid>5f2096f8-a86b-4d58-a720-81a625e0d6b6</testCaseGuid>
+</TestCaseEntity>

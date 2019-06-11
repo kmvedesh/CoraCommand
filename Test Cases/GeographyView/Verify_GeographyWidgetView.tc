@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_GeographyWidgetView</name>
+   <tag></tag>
+   <comment>Geography view widget text: &quot; + GeographyWidgetTxt</comment>
+   <testCaseGuid>e7f9be63-a80e-483a-9e64-f495ab8d0ce9</testCaseGuid>
+</TestCaseEntity>

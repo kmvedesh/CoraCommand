@@ -6,17 +6,17 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://cncdevui.azurewebsites.net/Walmart/UI/#/account/login'</initValue>
-      <name>URL</name>
+      <initValue>'http://cncdevui.azurewebsites.net/UI/#/account/login'</initValue>
+      <name>URL_Walmart</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'sajil@genpact.com'</initValue>
-      <name>Username</name>
+      <initValue>'shilpa.galagali@genpact.com'</initValue>
+      <name>Username_Walmart</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'password'</initValue>
+      <initValue>'Test@123'</initValue>
       <name>Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -33,5 +33,125 @@
       <description></description>
       <initValue>false</initValue>
       <name>PreviousTestFailed</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cnccontroller2.genpactdde.com'</initValue>
+      <name>OrchestratorURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>7</initValue>
+      <name>RobotID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Color code of Available robots</description>
+      <initValue>'rgba(113,117,111,0.5)'</initValue>
+      <name>Robot_Available</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Color code of Busy robots</description>
+      <initValue>'rgb(92,215,141)'</initValue>
+      <name>Robot_Busy</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Color code of Disconnected robots</description>
+      <initValue>'rgb(240,77,59)'</initValue>
+      <name>Robot_Disconnected</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rgba(255,255,255,0.5)'</initValue>
+      <name>ActiveProcessColor</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AR'</initValue>
+      <name>ProcessTowerName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'veena.dontyramachandra@genpact.digital'</initValue>
+      <name>Deactivated_Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Walmart Lab'</initValue>
+      <name>Account</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>authToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'d60c8f18-7838-4235-9977-5322728472f6'</initValue>
+      <name>ProcessKey</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>RobotState</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Customer_Reconciliation_Production Environment'</initValue>
+      <name>ProcessName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>ActiveProcess</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>FailedProcess</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CompletedProcess</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>AutoProcessCount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['AP', 'AR', 'RTR']</initValue>
+      <name>ProcessTowers</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['Customer_Reconciliation_Production Environment', 'Capital_Expenditure_Analysis_Production Environment']</initValue>
+      <name>MultipleProcessNames</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Color code for active process</description>
+      <initValue>'rgba(37, 165, 189, 1)'</initValue>
+      <name>Automated_Proc_ActiveColorCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Code of completed proccess</description>
+      <initValue>'rgba(86, 216, 138, 1)'</initValue>
+      <name>Automate_Proc_Completed_code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Code for failed</description>
+      <initValue>'rgba(243, 113, 98, 1)'</initValue>
+      <name>Automated_Proc_Failed_Code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Code for scheduled</description>
+      <initValue>'rgba(157, 161, 155, 1)'</initValue>
+      <name>Automated_Proc_Scheduled</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dev Robots'</initValue>
+      <name>LicenseName</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

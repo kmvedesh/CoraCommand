@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RobotDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd95ed2a-3987-4558-8e27-78a360e56580</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6434e8c3-12c6-46f8-bb14-116dd541223e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff995139-f4d2-458a-93cc-cc8724ee559c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

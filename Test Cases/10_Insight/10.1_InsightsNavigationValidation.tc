@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on Insights and validate the navigation</description>
+   <name>10.1_InsightsNavigationValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c98ad6b-4426-4756-a05f-f24055d9bd31</testCaseGuid>
+</TestCaseEntity>

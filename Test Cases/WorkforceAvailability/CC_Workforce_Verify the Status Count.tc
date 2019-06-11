@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CC_Workforce_Verify the Status Count</name>
+   <tag></tag>
+   <comment>Available Robots Count : &quot; + AvailableCount
+Disconnected Robots Count : &quot; + DisconnectedCount
+Busy Robots Count : &quot; + BusyCount</comment>
+   <testCaseGuid>2ae68916-e248-43da-b48c-41d02ea42a54</testCaseGuid>
+</TestCaseEntity>

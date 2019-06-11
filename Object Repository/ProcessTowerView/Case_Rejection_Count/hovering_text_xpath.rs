@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hovering_text_xpath</name>
+   <tag></tag>
+   <elementGuidId>0e475263-7b67-4753-8b37-971687e08f28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class='highcharts-series-group']/following-sibling::*[7]/child::*[2]/child::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='highcharts-series-group']/following-sibling::*[7]/child::*[2]/child::*</value>
+   </webElementProperties>
+</WebElementEntity>

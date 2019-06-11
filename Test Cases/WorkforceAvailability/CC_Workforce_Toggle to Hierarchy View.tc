@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to CC application by giving valid username and password and click on sign in button</description>
+   <name>CC_Workforce_Toggle to Hierarchy View</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb43b07f-d7fd-47b0-96e8-7eb7929ecf69</testCaseGuid>
+</TestCaseEntity>

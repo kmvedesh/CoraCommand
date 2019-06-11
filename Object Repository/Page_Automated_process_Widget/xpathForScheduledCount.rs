@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>xpathForScheduledCount</name>
+   <tag></tag>
+   <elementGuidId>974386a2-c53f-467a-b4b2-9b29a445ac1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-home-component/perfect-scrollbar/div/div[1]/app-operational/app-dashboard-area/app-operationalview/mat-card[2]/app-summary/div/div[3]/app-processsnapshottab/a/app-column-chart-snapshot/div/div/svg/g[5]/g[4]/text/tspan[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1558521123782</value>
+   </webElementProperties>
+</WebElementEntity>

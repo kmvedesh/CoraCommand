@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_SplashScreen</name>
+   <tag></tag>
+   <comment>GenpactLogo is present
+Username Textfiled is present
+Password Textfiled is present
+Forgot password link  is present
+SignIn button is present</comment>
+   <testCaseGuid>19a340b4-bc60-4cb3-aa17-9c8f7f07c169</testCaseGuid>
+</TestCaseEntity>

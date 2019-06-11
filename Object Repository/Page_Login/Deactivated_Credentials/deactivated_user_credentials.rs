@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deactivated_user_credentials</name>
+   <tag></tag>
+   <elementGuidId>e3c4125b-fe3b-428b-b7f9-659805d51074</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='toast-container']//div[@class='toast-message']//div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='toast-container']//div[@class='toast-message']//div</value>
+   </webElementProperties>
+</WebElementEntity>
